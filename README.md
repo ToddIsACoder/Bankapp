@@ -1,3 +1,6 @@
 # Bankapp
 A banking "app" I completed in 5 minutes.
-It says the "bankapp.exe" file is malware (because I did not want to pay $350 for a license), but if you scan it, you can see it is fine.
+Here is how to run it:
+1. Open the C++ file in an IDE
+2. Compile the file
+3. Open it!
